@@ -1,3 +1,5 @@
+package Slide02;
+
 public class TransformaString {
     public String inverte(String param){
 

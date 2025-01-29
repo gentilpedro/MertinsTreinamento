@@ -1,3 +1,5 @@
+package Slide02;
+
 public class Matematica {
     private int valor;
 

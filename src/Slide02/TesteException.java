@@ -1,3 +1,5 @@
+package Slide02;
+
 public class TesteException {
     public static void main(String[] args) {
         int c = 1;

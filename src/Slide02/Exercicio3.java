@@ -1,3 +1,5 @@
+package Slide02;
+
 public class Exercicio3 {
     public int processaValor(int val) {
         int temp1 = val + 20;
